@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="newman pr" tests="3" time="0.720">
+  <testsuite name="read" id="de8871ab-35e6-46e0-9fb6-65b5bae94843" timestamp="2022-12-26T01:24:00.878Z" tests="0" failures="0" errors="0" time="0.242"/>
+  <testsuite name="read Copy" id="4b849dc7-7719-4048-8bd5-00e16e85abe8" timestamp="2022-12-26T01:24:00.878Z" tests="0" failures="0" errors="0" time="0.059"/>
+  <testsuite name="read Copy 2" id="10b6eb31-c3a9-42c9-99d7-389ab1e5da32" timestamp="2022-12-26T01:24:00.878Z" tests="0" failures="0" errors="0" time="0.419"/>
+</testsuites>
